@@ -56,7 +56,7 @@ public:
 };
 
 int main() {
-    const int MAX_MAHASISWA = 2; // Jumlah mahasiswa (misal absensi 5 mahasiswa perminggu)
+    const int MAX_MAHASISWA = 5; // Jumlah mahasiswa (misal absensi 5 mahasiswa perminggu)
     const int MAX_MINGGU = 10;  // Maksimum jumlah minggu (absensi)
     Mahasiswa mhs[MAX_MAHASISWA];
 
